@@ -1,0 +1,56 @@
+body {
+  /* overflow: hidden; */
+  margin: 15px;
+  background-color: rgb(3, 5, 5);
+}
+
+.main {
+  background-image: url("./assets/images/beans.jpg");
+  height: 100%;
+  padding: 10px 388px;
+}
+
+.menu_container {
+  background-color: burlywood;
+}
+.title {
+  text-align: center;
+  font-size: 40px;
+  font-family: Impact;
+  padding: 5px;
+}
+.subtitle {
+  text-align: center;
+  font-size: 30px;
+  font-family: Impact;
+  padding: 5px;
+}
+
+.est {
+  text-align: center;
+  font-size: 16px;
+  font-family: serif;
+}
+.border {
+  background-color: brown;
+  padding: 3px;
+  margin: 8px;
+}
+.icons {
+  text-align: center;
+}
+
+.item_container {
+  display: flex;
+  justify-content: space-between;
+  margin: 30px;
+}
+.item_container p {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+.link {
+  text-align: center;
+padding-bottom:20px;
+}
